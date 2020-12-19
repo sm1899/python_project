@@ -33,7 +33,7 @@ pip3 install PyQt5
 
 ## Start_playing
 ```
-git clone https://github.com/dilip29/Summer-Training-Python-development/
+git clone https://github.com/sm1899/python_project
 ```
 * install the required tools 
 
