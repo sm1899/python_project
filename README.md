@@ -41,4 +41,4 @@ git clone https://github.com/sm1899/python_project
 
 * run the My_python_game_main_code.py
 
-*click manage team and start playing
+* click manage team and start playing
